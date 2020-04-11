@@ -63,3 +63,7 @@ button {
     outline: 0;
     border: 1px solid #aaa;
 }
+
+label {
+    color: black;
+}
